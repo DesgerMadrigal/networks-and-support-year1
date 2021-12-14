@@ -1,0 +1,31 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+1
+1
+r
+1
+0
+4
+1
+38
+'Inserte el radio de la circuferencia'
+5
+1
+1
+r
+6
+1
+1
+L
+8
+2*3.14*r
+4
+1
+44
+'La longitud de la circuferencia es de: ', L
+1

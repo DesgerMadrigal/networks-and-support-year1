@@ -1,0 +1,35 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+2
+2
+PH
+1
+0
+2
+HT
+1
+0
+4
+1
+51
+'Ingrese el precio por hora y las horas trabajadas'
+5
+1
+6
+PH, HT
+6
+1
+1
+R
+5
+PH*HT
+4
+1
+36
+'El total de su salario es de: ',  R
+1

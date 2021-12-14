@@ -1,0 +1,39 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+3
+2
+N1
+1
+0
+2
+N2
+1
+0
+2
+N3
+1
+0
+4
+1
+29
+'Digite 3 numeros cualquiera'
+5
+1
+8
+N1,N2,N3
+6
+1
+1
+R
+14
+sqrt(N1*N2*N3)
+4
+1
+33
+'la medida geometrica es de: ', R
+1

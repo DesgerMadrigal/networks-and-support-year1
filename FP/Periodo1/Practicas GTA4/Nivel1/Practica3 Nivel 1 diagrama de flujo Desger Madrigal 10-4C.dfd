@@ -1,0 +1,35 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+2
+7
+Cateto1
+1
+0
+7
+Cateto2
+1
+0
+5
+1
+16
+cateto1, cateto2
+6
+2
+1
+H
+19
+Cateto1^2+Cateto2^2
+1
+R
+7
+sqrt(H)
+4
+1
+31
+'La hipotenusa es igual a: ', R
+1

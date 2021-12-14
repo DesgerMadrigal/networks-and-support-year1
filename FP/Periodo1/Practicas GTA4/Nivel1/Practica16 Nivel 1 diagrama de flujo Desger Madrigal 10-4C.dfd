@@ -1,0 +1,43 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+3
+1
+r
+1
+0
+1
+A
+1
+0
+1
+V
+1
+0
+4
+1
+30
+'Digite el radio de la esfera'
+5
+1
+1
+r
+6
+2
+1
+A
+8
+4*3.14*r
+1
+V
+16
+(4/3)*3.14*(r^3)
+4
+1
+75
+'El volumen de la esfera es de: ', V, ' y el area de la esferea es de: ', A
+1

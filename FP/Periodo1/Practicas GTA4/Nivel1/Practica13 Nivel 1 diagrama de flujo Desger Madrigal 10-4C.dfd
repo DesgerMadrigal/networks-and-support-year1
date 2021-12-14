@@ -1,0 +1,47 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+3
+2
+NH
+1
+0
+2
+NM
+1
+0
+5
+total
+1
+0
+4
+1
+61
+'Digite la cantidad de hpmbres y mujeres que hay en el salon'
+5
+1
+5
+NH,NM
+6
+3
+5
+total
+5
+NH+NM
+3
+PNH
+14
+(NH*100)/total
+3
+PNM
+14
+(NM*100)/total
+4
+1
+92
+'El porcentaje de hombres es de: ', PNH,'%', ' y el porcentaje de mujeres es de: ', PNM, '%'
+1

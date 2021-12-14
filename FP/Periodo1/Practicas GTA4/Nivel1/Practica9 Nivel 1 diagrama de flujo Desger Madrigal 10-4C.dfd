@@ -1,0 +1,39 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+2
+2
+SA
+1
+0
+2
+SF
+1
+0
+4
+1
+27
+'Digite su salario actual:'
+5
+1
+2
+SA
+6
+2
+7
+aumento
+7
+SA*0.25
+2
+SF
+10
+SA+aumento
+4
+1
+51
+'Su nuevo salario con el 25% de aumento es de:', SF
+1
